@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# BuyMeACoffee contract
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Contract Address : 0x62eE740323c5355362edF37B442733d8FaC5066C
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+[https://goerli.etherscan.io/tx/0xf9abc3d5228bb650b6fc46a00439eaeb76c4c496b8e68a50cb765f81461783dc](https://goerli.etherscan.io/tx/0xf9abc3d5228bb650b6fc46a00439eaeb76c4c496b8e68a50cb765f81461783dc)
